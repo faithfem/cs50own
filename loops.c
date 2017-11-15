@@ -15,7 +15,7 @@ int main(void)
     printf("\n");
 
     for(i=0; i<20; i=i+2) //no bracket, means loop continues if it no longer satisfies this part of the loop
-    printf("%d", i);
+    printf("%d ", i);
     for (i=10; i>0; i--){
         printf("%d ", i);
     }
