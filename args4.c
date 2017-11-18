@@ -18,7 +18,7 @@ int main(int argc, string userInput[]) //YOU CAN USE STRING ARGV[] OR CHAR* ARGV
             //sum = sum + atoi(userInput[i]); //MUST ADD ATOI SO IT CAN CONVERT STRING TO INTEGER; ALPHAT TO INTEGER = "A TO I" = "ATOI"
             sum += atoi(userInput[i]); //SAME AS ABOVE BUT MUCH NEATER
         }
-            printf("Total = %d\n", summ);
+            printf("Total = %d\n", sum);
     }
     return 0;
 }
