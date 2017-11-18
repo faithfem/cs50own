@@ -16,3 +16,8 @@ int main(int argc, string argv[])
 
     return 0;
 }
+//FIRST ITERATION. SEE ARGSII AFTER THIS
+//THIS PRINTS THE FOLLOWING:
+//argc = 1
+//What's in argv[]
+//argv[0] = ./args
